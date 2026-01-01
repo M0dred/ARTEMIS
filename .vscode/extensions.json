@@ -1,5 +1,7 @@
 {
     "recommendations": [
-        "tamasfe.even-better-toml",
+        "myml.vscode-markdown-plantuml-preview",
+        "esbenp.prettier-vscode",
+        "jebbs.plantuml"
     ]
 }
