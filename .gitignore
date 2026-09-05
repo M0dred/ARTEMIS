@@ -88,7 +88,3 @@ CHANGELOG.ignore.md
 __pycache__/
 *.pyo
 *.pyd
-temp_auto_push.bat
-temp_interactive_push.bat
-.gitignore
-branch_structure.json
